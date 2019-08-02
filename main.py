@@ -1,14 +1,7 @@
 from classes.player import Player
 from classes.enemy import Enemy
 from random import sample
-
-
-class Colors:
-    red = '\033[31m'
-    green = '\033[32m'
-    orange = '\033[33m'
-    blue = '\033[34m'
-    end = '\033[0m'
+from classes.colors import Colors
 
 
 class Game:
