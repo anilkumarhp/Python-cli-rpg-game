@@ -9,4 +9,6 @@ We have:
 4. Healing health, available only when health is less than max.
 5. Mana restore, available when mana is not full.
 
+
+The Color codes works only in pycharm.
   
